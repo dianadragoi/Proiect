@@ -5,7 +5,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsApplication_PROIECT
-{
+{//dianadragoi
+
     static class Program
     {
         /// <summary>
