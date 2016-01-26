@@ -19,6 +19,8 @@ namespace WindowsFormsApplication_PROIECT
             Application.Run(new Form1());
             //radu
             //diana
+            //brenciu
+            //horia
         }
     }
 }
